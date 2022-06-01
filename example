@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CV Godiatska Anastasia</title>
+        <link href="style.css" rel="stylesheet"/>
+
+    </head>
+    <body>
+        <div class="wrapper">
+            <main>
+                <div class="main-discription">
+                  <h1>Godiatska Anastasia</h1>
+                    <p>Nacido en 1983
+
+                       </p>
+                </div>
+               
+   Gerente de ventas empresa constructora 2007-2008 
+   Gerente de ventas. Departamento de marketing.2008-2012
+   El nivel inicial de inglés, ruso, ucraniano.
+   Tengo experiencia de trabajo en equipo eficaz.
+   Desarrollado habilidades de organización, la responsabilidad y el estrés.
+   MS Office, Word, Exel, Adobe Photoshop, Lightroom, Inshot, Canva.
+                <div>
+                    <h2>Experiencia laboral</h2>
+                    <h3> Asistente de gerente de banco </h3>
+                    <p>Septiembre 2004 - Enero 2005 | Ucrania</p>
+                   
+                </div>
+                <div>
+                    <h3> Gerente de la oficina empresa agrícola  </h3>
+                        <p> 2006 - Septiembre 2007 | Ucrania
+                        </p>
+                    
+
+                </div>
+                <div>
+
+                </div>
+                <div>
+                    <h3> Gerente de la oficina empresa agrícola  </h3>
+                        <p>Junio 2006 - Septiembre 2007 | Ucrania
+                        </p>
+                    
+
+                </div>
+                <div>
+                    <h3>Creación de contenido y SMM
+                    </h3>
+                    <ul>
+                       
+
+                    </ul>
+                </div>
+                
+                <div>
+                    <h2>Educación
+                    </h2>
+                    
+                   
+                    <h4>The Donetsk Institute of Tourism</h4>
+                    <p>Managemant of organization
+                  </p>
+                    <p>Septiembre 2001 - Mayo 2006 |Ucrania
+                    </p>
+                </div>
+            </main>
+            
+
+        <aside class="block1">
+            <img src="1.png" width="300"/>
+            <div>
+                
+                
+                <p> </p>
+                <main class="container">
+                    <div class="card-wrapper">
+                        <div class="content">
+                      <h3>Anastasia Godiatska</h3>
+                      <p><a href="https://wa.me/qr/6BOPB2LXPUYOL1" >WhatsAPP</a></p>
+                      <p>Email: <a href="mailto:anastiusha@meta.ua">anastiusha@meta.ua </a></p>
+                  
+                  </div>
+                  </div>
+                  </main>
+            </div>
+            
+        </aside>
+
+
+
+    </div>
+    
+    </body>
+</html>
